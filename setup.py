@@ -56,7 +56,6 @@ setup(
         "imageio",
         "matplotlib",
         "motmetrics==1.1.3",
-        "numba",
         "numpy",
         "omegaconf==2.1.0",
         "opencv-python>=4.1.0.25",
