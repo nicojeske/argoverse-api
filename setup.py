@@ -52,7 +52,6 @@ setup(
         "colour",
         "descartes",
         "h5py",
-        "hydra-core==1.1.0",
         "imageio",
         "matplotlib",
         "motmetrics==1.1.3",
